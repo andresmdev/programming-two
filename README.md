@@ -25,7 +25,7 @@ public class Codigo {
 - Orientado a Objeto
 - Lenguaje actualizado 
 - Multiplataforma
-- Seguro**
+- Seguro
 
 
 ## Desventajas
